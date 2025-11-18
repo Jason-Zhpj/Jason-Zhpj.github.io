@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pujian Zhan"
-description              : "Fouse on Person re-identification and Image generation"
+description              : "Fousing on Person re-identification and Image generation"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Pujian Zhan\n(占普剑)"
-  avatar           : "images/android-chrome-512x512.png"
+  name: |
+    Pujian Zhan
+    (占普剑)
+  avatar: "images/android-chrome-512x512.png"
   bio              : #"Focus on Person Re-Identification"
   location         : "Beijing, China"
   employer         :
