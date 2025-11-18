@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Pujian Zhan"
+description              : "Fouse on Person re-identification and Image generation"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pujian Zhan\n(占普剑)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focus on Person Re-Identification"
+  bio              : #"Focus on Person Re-Identification"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
