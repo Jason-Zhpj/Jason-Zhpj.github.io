@@ -21,9 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name: |
-    Pujian Zhan
-    (占普剑)
+  name: name: "Pujian Zhan<br>(占普剑)"
   avatar: "images/zpj.png"
   bio              : #"Focus on Person Re-Identification"
   location         : "Beijing, China"
