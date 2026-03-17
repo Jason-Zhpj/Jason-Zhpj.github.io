@@ -27,5 +27,5 @@ My research interest includes person re-identification and image generation.
 
 # 📖 Educations
 - *2025.09 - now*, Phd, Beijing Jiaotong University
-- *2015.09 - 2019.06*, Undergraduate, Jeme Tienyow Honors College of Beijing Jiaotong University
+- *2021.09 - 2025.06*, Undergraduate, Jeme Tienyow Honors College of Beijing Jiaotong University
 
