@@ -1,0 +1,14 @@
+.about__bio {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--color-text);
+  max-width: 800px;
+}
+
+.about__research {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--color-text);
+  margin-top: var(--space-md);
+  max-width: 800px;
+}

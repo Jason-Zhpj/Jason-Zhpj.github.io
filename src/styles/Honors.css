@@ -1,0 +1,53 @@
+.honors__list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.honor-card {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: 12px;
+  background: var(--color-bg-alt);
+  transition: box-shadow var(--transition-normal);
+}
+
+.honor-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.honor-card__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #fef3c7;
+  color: var(--color-accent-amber);
+  flex-shrink: 0;
+}
+
+.honor-card__title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.honor-card__meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: 0.9rem;
+}
+
+.honor-card__year {
+  color: var(--color-text-secondary);
+}
+
+.honor-card__note {
+  color: var(--color-primary);
+  font-weight: 500;
+}
